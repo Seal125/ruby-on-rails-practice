@@ -13,3 +13,11 @@ This will be shown for macOS, so if you plan to install it on another OS, you ca
 \*_This specific VM will automatically open RVM in your terminal, so if that's something you don't like, there are plenty of other ones!_
 
 - Congrats, now you have Ruby :)
+
+## Installing Rails
+
+- Ensure that you're able to run `gem -v` in your terminal. This is how you use Ruby commands.
+
+- If it's working properly, type `gem install rails` to install Rails. Also ensure it installed correctly by doing `rails -v`.
+
+- Congrats, now you have Ruby and Rails :)
