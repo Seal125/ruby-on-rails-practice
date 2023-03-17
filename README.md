@@ -23,3 +23,7 @@ This will be shown for macOS, so if you plan to install it on another OS, you ca
 - Congrats, now you have Ruby and Rails :)
 
 \*_For future reference, you should install rails inside your project, as it contains an app generator to quickly and easily create an app template with Rails_
+
+## Notes
+
+- It looks like a new rails app already comes with git initialized, so in a way, you don't have to initialize git on an outside directory. Keep this in mind for the future, so you're not committing thousands of files :)
