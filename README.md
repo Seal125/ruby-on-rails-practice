@@ -21,3 +21,5 @@ This will be shown for macOS, so if you plan to install it on another OS, you ca
 - If it's working properly, type `gem install rails` to install Rails. Also ensure it installed correctly by doing `rails -v`.
 
 - Congrats, now you have Ruby and Rails :)
+
+\*_For future reference, you should install rails inside your project, as it contains an app generator to quickly and easily create an app template with Rails_
